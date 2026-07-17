@@ -7,7 +7,7 @@ This project analyzes pricing dynamics, discount structures, and customer intere
 
 ## Dataset 
 
-Source: Apple E-Commerce Pricing & Market Trends Database -KAGGLE
+Source: Apple Pricing Trends Database -KAGGLE
 
 Time Period: 2020 - 2026 
 
@@ -126,4 +126,4 @@ Dashboard screenshot(s)
 README.md
 
 README.md
-Busin
+Bus
