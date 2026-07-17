@@ -124,5 +124,6 @@ Power BI dashboard (.pbix)
 Dashboard screenshot(s)
 
 README.md
-Business Recommendations
-Focus on premium categories, monitor yearly pricing trends, optimize inventory around flagship models, and benchmark category pricing.
+
+README.md
+Busin
