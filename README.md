@@ -63,7 +63,7 @@ KPIs, Category comparison, Year-wise trends, Platform analysis, Interactive filt
 
 Dashboard 
 
-<!-- Uploading "apple_pricing_trends_dashboard.png"... -->
+
 
 
 
