@@ -63,8 +63,7 @@ KPIs, Category comparison, Year-wise trends, Platform analysis, Interactive filt
 
 Dashboard 
 
-
-
+<img width="1326" height="747" alt="Image" src="https://github.com/user-attachments/assets/b2930550-27a4-47de-ba6a-0ccfe38886ad" />
 
 
 
