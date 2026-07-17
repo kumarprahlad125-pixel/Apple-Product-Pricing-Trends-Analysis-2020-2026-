@@ -1,11 +1,11 @@
 # Apple product pricing trends analysis 2020-2026
 
 
-## Project Overview -
+## Overview 
 
 This project analyzes pricing dynamics, discount structures, and customer interest across major Apple product categories (iPhone, iPad, Apple Watch,Mac) sold on India's primary e-commerce marketplaces—Amazon and Flipkart. Utilizing structured query execution in SQL and data translation, the project identifies how promotional events (Big Billion Days, Great Indian Festival) affect market pricing, product rating trends, and consumer feedback volume.
 
-## Dataset-
+## Dataset 
 
 Source: Apple E-Commerce Pricing & Market Trends Database -KAGGLE
 
@@ -18,11 +18,11 @@ Columns: 14
 Unique Product Categories: 4 (Watch, iPad, iPhone,Mac)
 
 
-## Business Analysis on -
+## Business Analysis on 
 
 Analyze pricing strategies, premium products, and year-over-year pricing trends across Apple product categories.
 
-## Objectives -
+## Objectives 
 
 • Analyze pricing trends
 
@@ -32,11 +32,11 @@ Analyze pricing strategies, premium products, and year-over-year pricing trends 
 
 • Build interactive dashboard
 
-## Tools - 
+## Tools 
 
 MySQL, Power BI, Excel 
 
-## Business Questions - 
+## Business Questions 
 
 1.Which Apple product category generated the highest total sales value?
 
@@ -51,7 +51,7 @@ MySQL, Power BI, Excel
 6.What is the YoY percentage change in average selling price?
 
 
-## Methodology - 
+## Methodology 
 
 1.Cleaned and validated the dataset in Excel.
 
@@ -62,18 +62,18 @@ MySQL, Power BI, Excel
 4.Generated business insights and recommendations.
 
 
-## Dashboard Features - 
+## Dashboard Features 
 
 KPIs, Category comparison, Year-wise trends, Platform analysis, Interactive filters.
 
 
-## Dashboard - 
+## Dashboard 
 
 <img width="1326" height="747" alt="Image" src="https://github.com/user-attachments/assets/b2930550-27a4-47de-ba6a-0ccfe38886ad" />
 
 
 
-## Key Business Insights - 
+## Key Business Insights 
 
 • Premium product categories consistently contribute the highest product values.
 
@@ -83,16 +83,42 @@ KPIs, Category comparison, Year-wise trends, Platform analysis, Interactive filt
 
 • Category-level pricing differences highlight Apple's premium segmentation strategy.
 
-## Key Insight - 
+## Key Insight 
 
 The strongest finding from this analysis is that Apple's pricing strategy is driven by premium positioning rather than uniform price growth. A small number of flagship products command significantly higher prices than the rest of their category, suggesting that Apple relies on premium models to strengthen brand perception and maximize revenue potential. This insight can help businesses prioritize premium inventory, optimize pricing strategies, and forecast future product positioning.
 
-## Business Recommendations - 
+## Business Recommendations 
 
 Surgical Promotional Stocking: Prioritize deep stock reserves on Apple Watches ahead of major festival periods, as they serve as high-conversion promotional lead items.
 
 Preserve Premium Pricing on Flagships: Avoid aggressive margin cuts on iPhones, as market data demonstrates they retain near-retail value and steady consumer demand even during aggressive site-wide sales.
 
 
+## Skills Demonstrated 
+
+SQL (DQL,subqueries,window functions)
+
+Power BI (DAX,DATA MODELLING,POWER QUERY)
+
+Pricing trend Analysis 
+
+Product Segmentation 
+
+Dashboard development
+
+
+## Project Deliverables
+
+Apple product pricing trends  (.csv)
+
+SQL analysis script (.sql) — business queries
+
+SQL database dump (.sql) — full schema and data
+
+Power BI dashboard (.pbix)
+
+Dashboard screenshot(s)
+
+README.md
 Business Recommendations
 Focus on premium categories, monitor yearly pricing trends, optimize inventory around flagship models, and benchmark category pricing.
