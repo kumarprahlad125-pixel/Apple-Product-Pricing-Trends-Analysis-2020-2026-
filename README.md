@@ -34,7 +34,11 @@ Analyze pricing strategies, premium products, and year-over-year pricing trends 
 
 ## Tools 
 
-MySQL, Power BI, Excel 
+MySQL
+
+Power BI
+
+Excel 
 
 ## Business Questions 
 
