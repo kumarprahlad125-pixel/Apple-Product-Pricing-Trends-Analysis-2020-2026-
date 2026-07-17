@@ -2,6 +2,8 @@ Project Overview -
 
 This project analyzes pricing dynamics, discount structures, and customer interest across major Apple product categories (iPhone, iPad, Apple Watch,Mac) sold on India's primary e-commerce marketplaces—Amazon and Flipkart. Utilizing structured query execution in SQL and data translation, the project identifies how promotional events (Big Billion Days, Great Indian Festival) affect market pricing, product rating trends, and consumer feedback volume.
 
+Dataset 
+
 Source: Apple E-Commerce Pricing & Market Trends Database -KAGGLE
 
 Time Period: 2020 - 2026 
