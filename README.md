@@ -57,7 +57,8 @@ Methodology
 4.Generated business insights and recommendations.
 
 
-Dashboard Features
+Dashboard Features - 
+
 KPIs, Category comparison, Year-wise trends, Platform analysis, Interactive filters.
 
 
